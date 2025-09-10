@@ -1,7 +1,7 @@
-[![MasterHead](https://t3.ftcdn.net/jpg/02/69/74/04/360_F_269740489_H9JCPmidJQh3erTmXPnlg5capVGXTdFb.jpg)](https://shubhankargokhale.io)
+[![MasterHead](https://github.com/shubhankargokhale/shubhankargokhale/blob/ee6e9e9ad90c4428e8ffc0c8e16cdb6efe3582b2/mst.png)](https://shubhankargokhale.io)
 
-<h1 align="center">Hi 👋, I'm Shubhankar Gokhale</h1>
-<h3 align="center">🔒 Cybersecurity Enthusiast | 🎶 Harmonium Player | 💻 Developer</h3>
+<h1 align="center"> Shubhankar Gokhale</h1>
+<h3 align="center">🎓 B.Tech & M.Tech in Computer Engineering | 🎹 Harmonium Player | 💻 Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shubhankargokhale&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -20,10 +20,10 @@
 <div align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" alt="Coding" width="300" align="right" style="margin-left: 20px;"/>
   <p>
-  🔭 Currently pursuing <b>M.Tech in Computer Engineering</b><br>
-  🎓 Graduated with <b>B.Tech in Computer Engineering</b><br>
-  🎶 Harmonium player since birth<br>
-  📬 Contact: <b>shubhankar.gokhale25@gmail.com</b>
+   Currently pursuing <b>M.Tech in Computer Engineering</b><br>
+   Graduated with <b>B.Tech in Computer Engineering</b><br>
+   Harmonium player since birth!<br>
+   Contact: <b>shubhankar.gokhale25@gmail.com</b>
   </p>
 </div>
 
@@ -39,9 +39,7 @@
 ## Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,nodejs,html,bootstrap,mysql,linux,photoshop,illustrator" />
-</p>
-
-> **Note:** You can hover over icons on some browsers to see the technology names.  
+</p> 
 
 ---
 
@@ -54,7 +52,7 @@
 
 ---
 
-## Tech Stack Cloud (Animated)
+## Tech Stack Cloud
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,nodejs,html,bootstrap,mysql,linux,photoshop,illustrator&perline=5" alt="Tech Stack Cloud" />
 </p>
